@@ -1,5 +1,6 @@
 # Mac Download
 PROCESS-NAME,aria2c.exe
+PROCESS-NAME,aria2c
 PROCESS-NAME,fdm.exe
 PROCESS-NAME,Folx.exe
 PROCESS-NAME,NetTransport.exe
