@@ -6325,3 +6325,6 @@ DOMAIN-SUFFIX,picjs.xyz
 
 # China Leadership Monitor
 DOMAIN-SUFFIX,prcleader.org
+
+# Z-Library
+DOMAIN-SUFFIX,singlelogin.re
